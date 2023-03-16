@@ -1,0 +1,500 @@
+   53  git checkout main
+   54  clear
+   55  ls -a
+   56  exit() exit()
+   57  exit
+   58  cd documents
+   59  cd /IBS projects/IBSClientWebsite
+   60  cd IBS projects
+   61  cd IBS projects
+   62  cd downloads
+   63  cd wildfly-23.0.0.Final
+   64  cd bin
+   65  run add-user.bat
+   66  cd downlaods
+   67  cd downloads
+   68  cd wildfly-23.0.0.Final
+   69  cd bin
+   70  ./add-user.bat
+   71  add-user.bat
+   72  add-user.bat
+   73  source "./env/Script/activate"
+   74  source "./env/Scripts/activate"
+   75  python main.py
+   76  exit
+   77  ls
+   78  cd  Documents/
+   79  cd Umuzi
+   80  ls
+   81  cd Tumelo-Mahlangu-219-level-1-programming-katas-javascript/
+   82  ls
+   83  node Task2.3.js
+   84  node Task2.3.js
+   85  node Task2.3.js
+   86  node Task2.3.js
+   87  node Task2.3.js
+   88  node Task2.3.js
+   89  node Task2.3.js
+   90  clear
+   91  node Task2.3.js
+   92  node Task2.3.js
+   93  clear
+   94  node Task2.3.js
+   95  node Task2.3.js
+   96  node Task2.3.js
+   97  node Task2.3.js
+   98  node Task2.3.js
+   99  node Task2.3.js
+  100  node Task2.3.js
+  101  node Task2.3.js
+  102  node Task2.3.js
+  103  node Task2.3.js
+  104  node Task2.3.js
+  105  node Task2.3.js
+  106  node Task2.3.js
+  107  node Task2.3.js
+  108  node Task2.3.js
+  109  node Task2.3.js
+  110  node Task2.3.js
+  111  node Task2.3.js
+  112  node Task2.3.js
+  113  clear
+  114  node Task2.3.js
+  115  node Task2.3.js
+  116  node Task2.3.js
+  117  node Task2.3.js
+  118  node Task2.3.js
+  119  node Task2.3.js
+  120  node Task2.3.js
+  121  node Task2.3.js
+  122  node Task2.3.js
+  123  node Task2.3.js
+  124  clear
+  125  clear
+  126  node Task2.3.js
+  127  node Task2.3.js
+  128  node Task2.3.js
+  129  node Task2.3.js
+  130  node Task2.3.js
+  131  node Task2.3.js
+  132  clear
+  133  node Task2.3.js
+  134  node Task2.3.js
+  135  node Task2.3.js
+  136  node Task2.3.js
+  137  clear
+  138  clear
+  139  node Task2.3.js
+  140  node Task2.3.js
+  141  node Task1.1.js
+  142  node Task1.1.js
+  143  clear
+  144  exit
+  145  cd documents
+  146  cd Umuzi
+  147  ls
+  148  cd Tumelo-Mahlangu-219-level-1-programming-katas-javascript/
+  149  ls
+  150  node Task2.3.js
+  151  node task0.1.js
+  152  cd documents
+  153  cd personal
+  154  ls
+  155  cd Personal projects
+  156  cd documents
+  157  ls
+  158  cd Personalprojects
+  159  cd tumi-portfolio
+  160  git clone https://github.com/UnityGameDesign-max/UnityGameDesign-max.io
+  161  npm start
+  162  cd quadratic-equation
+  163  npm start
+  164  cd Documents
+  165  cd Umuzi
+  166  ls
+  167  cd  Tumelo-Mahlangu-219-level-1-programming-katas-javascript
+  168  git checkout task/8
+  169  git checkout main
+  170  git merge --no-ff task/8
+  171  npm i jasmine
+  172  npx jasmine init
+  173  node simple-calculator.js
+  174  cd src
+  175  node simple-calculator.js
+  176  node simple-calculator.js
+  177  node simple-calculator.js
+  178  node simple-calculator.js
+  179  node simple-calculator.js
+  180  node simple-calculator.js
+  181  node simple-calculator.js
+  182  exit
+  183  exit
+  184  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  185  cd mainentries
+  186  npm install --save-dev @electron-forge/cli
+  187  yarn add --dev @electron-forge/cli
+  188  yarn add --dev @electron-forge/cli
+  189  yarn add --dev @electron-forge/cli
+  190  yarn add --dev @electron-forge/cli
+  191  yarn add --dev @electron-forge/cli
+  192  npm install --save-dev @electron-forge/cli
+  193  npm install --save-dev @electron-forge/cli
+  194  yarn add --dev @electron-forge/cli
+  195  yarn add --dev @electron-forge/cli
+  196  yarn add --dev @electron-forge/cli
+  197  yarn add --dev @electron-forge/cli
+  198  yarn add --dev @electron-forge/cli
+  199  yarn add --dev @electron-forge/cli
+  200  yarn add --dev @electron-forge/cli
+  201  exit
+  202  exit
+  203  git status
+  204  git add IBS Accounting/package.json
+  205  git add IBS\ Accounting/package.json
+  206  git commit -m "updated dependencies"
+  207  git status
+  208  git add -u
+  209  git commit -m "updated all components of the app"
+  210  git puh origin main
+  211  git push origin main
+  212  git push origin main
+  213  git push origin main
+  214  git status
+  215  clear
+  216  exit
+  217  git status
+  218  git add  IBS Accounting/package.json
+  219  git add  IBS Accounting/package.json
+  220  git add  IBS\ Accounting/package.json
+  221  git commit -m "updated dependencies"
+  222  git status
+  223  git add -u
+  224  git commit -m "updated history and graph"
+  225  git push origin main
+  226  git push origin main
+  227  exit
+  228  cd IBS\ Accounting
+  229  npm start
+  230  exit
+  231  ls
+  232  ls
+  233  cd  'My Documents'@ 
+  234  cd documents
+  235  ls
+  236  cd Umuzi
+  237  ls
+  238  cd  Tumelo-Mahlangu-199-semitone-difference-basic-algorithm-javascript/
+  239  git add .
+  240  cd IBS\ Accounting
+  241  yarn electron:server
+  242  npm start
+  243  npm start
+  244  exit
+  245  git status
+  246  git add -u
+  247  git add -u
+  248  git commit -m "updated transactions"
+  249  git push origin main
+  250  exit
+  251  cd documents
+  252  cd IBSprojects
+  253  cd IBSClientWebsite
+  254  source "./env/Scripts/activate"
+  255  heroku login
+  256  heroku create
+  257  heroku rename ib-system
+  258  git status
+  259  git add Procfile
+  260  git commit -m "heroku deployment file"
+  261  git add requirements.txt
+  262  git commit -m "updated dependencies"
+  263  ls
+  264  git status
+  265  git push heroku master
+  266  git push heroku main
+  267  git status
+  268  heroku logs --tail --app ib-system
+  269  heroku logs --tail --app ib-system
+  270  heroku logs --tail --app ib-system
+  271  heroku logs --tail --app ib-system
+  272  heroku logs --tail --app ib-system
+  273  heroku run printenv
+  274  heroku logs --tail --app ib-system
+  275  heroku logs --tail --app ib-system
+  276  heroku open
+  277  heroku run printenv
+  278  heroku run printenv
+  279  heroku logs --tail --app ib-system
+  280  heroku config:add PORT=33507
+  281  heroku logs --tail --app ib-system
+  282  heroku config:add PORT=5000
+  283  heroku logs --tail --app ib-system
+  284  heroku restart
+  285  heroku open
+  286  heroku logs --tail --app ib-system
+  287  clear
+  288  heroku create
+  289  heroku rename
+  290  heroku rename ibs-accounting
+  291  cd ..
+  292  cd IBSMainSystem
+  293  cd IBS\ Accounting
+  294  git push heroku main
+  295  git remote add https://git.heroku.com/ibs-accounting.git
+  296  heroku login
+  297  git push heroku main
+  298  git push https://git.heroku.com/ibs-accounting.git
+  299  git push https://git.heroku.com/ibs-accounting.git main
+  300  cd ..
+  301  cd ..
+  302  cd Users
+  303  cd user
+  304  clear
+  305  exit
+  306  heroku -v
+  307  cd documents
+  308  cd IBSprojects
+  309  cd IBSMainSystem
+  310  heroku login
+  311  heroku create
+  312  git status
+  313  git push heroku main
+  314  git push  https://git.heroku.com/limitless-sands-08081.git
+  315  git push heroku main
+  316  heroku login
+  317  heroku login
+  318  heroku login
+  319  git push heroku main
+  320  `npm install
+  321  npm install
+  322  cd IBS\ Accounting
+  323  npm install
+  324  cd /Documents/IBSprojects/IBSMainSystem/IBS Accounting
+  325  cd /Documents/IBSprojects/IBSMainSystem/IBS\ Accounting
+  326  cd /Documents/IBSprojects/IBSMainSystem/
+  327  cd /Documents/IBSprojects/
+  328  cd /Documents/
+  329  cd Documents/IBSprojects/IBSMainSystem/IBS\ Accounting
+  330  ls 
+  331  heroku login
+  332  heroku create
+  333  git push heroku main
+  334  git push 
+  335  user@ZaZa MINGW64 ~
+  336  $ cd /Documents/IBSprojects/IBSMainSystem/IBS Accounting
+  337  bash: cd: too many arguments
+  338  user@ZaZa MINGW64 ~
+  339  $ cd /Documents/IBSprojects/IBSMainSystem/IBS\ Accounting
+  340  bash: cd: /Documents/IBSprojects/IBSMainSystem/IBS Accounting: No such file or directory
+  341  user@ZaZa MINGW64 ~
+  342  $ cd /Documents/IBSprojects/IBSMainSystem/
+  343  bash: cd: /Documents/IBSprojects/IBSMainSystem/: No such file or directory
+  344  user@ZaZa MINGW64 ~
+  345  $ cd /Documents/IBSprojects/
+  346  bash: cd: /Documents/IBSprojects/: No such file or directory
+  347  user@ZaZa MINGW64 ~
+  348  $ cd /Documents/
+  349  bash: cd: /Documents/: No such file or directory
+  350  user@ZaZa MINGW64 ~
+  351  $ cd Documents/IBSprojects/IBSMainSystem/IBS\ Accounting
+  352  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  353  $ ls
+  354  build/  firebase.json  package-lock.json  src/
+  355  data/   node_modules/  public/            yarn.lock
+  356  dist/   package.json   README.md          yarn-error.log
+  357  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  358  $ heroku login
+  359   ┬╗   Warning: heroku update available from 7.53.0 to 7.56.1.
+  360  heroku: Press any key to open up the browser to login or q to exit:
+  361  Opening browser to https://cli-auth.heroku.com/auth/cli/browser/e5467ed3-a8ef-4488-b23f-f9908d09edb8?requestor=SFMyNTY.g2gDbQAAAA4xOTcuMjI5LjEzNy42OG4GALBEUlB7AWIAAVGA.q_8JaHEsdcMhFDgcZXzhTFaISYr-0LlM5CXn5_dDTdw
+  362  heroku: Waiting for login...
+  363  Logging in... done
+  364  Logged in as lehlohonolompl@gmail.com
+  365  y
+  366  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  367  $ heroku create
+  368   ┬╗   Warning: heroku update available from 7.53.0 to 7.56.1.
+  369  Creating app... done, aqueous-beach-50285
+  370  https://aqueous-beach-50285.herokuapp.com/ | https://git.heroku.com/aqueous-beach-50285.git
+  371  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  372  $ ^C
+  373  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  374  $ git push heroku main
+  375  remote: !       No such app as limitless-sands-08081.
+  376  fatal: repository 'https://git.heroku.com/limitless-sands-08081.git/' not found
+  377  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  378  $ git push ^C
+  379  user@ZaZa MINGW64 ~/Documents/IBSprojects/IBSMainSystem/IBS Accounting (main)
+  380  $ git push
+  381  cd Documents/IBSprojects/IBSMainSystem
+  382  cd IBS\ Accounting
+  383  heroku login
+  384  heroku create
+  385  heroku rename ibs-accountingapp
+  386  heroku rename ibs-accountingApp
+  387  git push  https://git.heroku.com/secret-inlet-54466.git
+  388  npm install
+  389  git push  https://git.heroku.com/secret-inlet-54466.git
+  390  git push  https://git.heroku.com/secret-inlet-54466.git
+  391  node test.js
+  392  node test.js
+  393  clear
+  394  node test.js
+  395  clear
+  396  node test.js
+  397  clear
+  398  clear
+  399  node test.js
+  400  clear
+  401  node test.js
+  402  clear
+  403  node test.js
+  404  node test.js
+  405  clear
+  406  node test.js
+  407  clear
+  408  node test.js
+  409  clear
+  410  node test.js
+  411  clear
+  412  node test.js
+  413  clear
+  414  clear
+  415  node test.js
+  416  clear
+  417  clear
+  418  clear
+  419  clear
+  420  clear
+  421  clear
+  422  node test.js
+  423  clear
+  424  node test.js
+  425  node test.js
+  426  clear
+  427  node test.js
+  428  clear
+  429  clear
+  430  node test.js
+  431  clear
+  432  cleare
+  433  clear
+  434  cleare
+  435  node test.js
+  436  exit
+  437  exit
+  438  exit
+  439  cd documents
+  440  cd Umuzi
+  441  cd Reviews
+  442  git clone https://github.com/Umuzi-org/Eddah-Githuku-199-semitone-difference-basic-algorithm-javascript.git
+  443  git pull origin semitone-basic
+  444  git stash
+  445  git pull origin semitone-basic
+  446  exit
+  447  cd web
+  448  npm i react-crossfade-responsive
+  449  clear
+  450  exit
+  451  git add src
+  452  git commit -m "added memory.js"
+  453  git push origin feat/configurable-grid-size
+  454  clear
+  455  EXIT
+  456  exit
+  457  exit() dffdf
+  458  ffefefefef
+  459  clear
+  460  exit
+  461  exit
+  462  exit
+  463  th
+  464  exit
+  465  exit
+  466  exit
+  467  cd ..
+  468  cd ..
+  469  curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+  470  cd documents
+  471  cd open-source
+  472  ls
+  473  cd Webiu
+  474  code .
+  475  npm start
+  476  exit
+  477  1s
+  478  1s /sihle
+  479  mkdir Sihle
+  480  mkdir Moratuwa
+  481  1s
+  482  1s /
+  483  pwd
+  484  cd Moratuwa
+  485  cd /
+  486  pwd
+  487  cd ~
+  488  pwd
+  489  cd
+  490  pwd
+  491  1s -l
+  492  man cd
+  493  man rmdir
+  494  cd documents/Sihle
+  495  ls
+  496  cd git-basic-exercises
+  497  ls
+  498  git remote add origin https://github.com/Sphe29/git-basic-exercises.git
+  499  git push -u origin main
+  500  cd documents
+  501  cd Sihle
+  502  mkdir git-basic-exercises
+  503  cd git-basic-exercises
+  504  1s -a
+  505  git init
+  506  ls -a
+  507  git status
+  508  touch README.md
+  509  ls -a
+  510  git status
+  511  git log
+  512  git add README.md
+  513  git status
+  514  git rm --cached README.md
+  515  git status
+  516  git add README.md
+  517  git commit -m "initial commit"
+  518  git log
+  519  nano README.md
+  520  cat README.md
+  521  git status
+  522  git add README.md
+  523  git commit -m "second commit"
+  524  nano README.md
+  525  git add README.md
+  526  git commit -m "third commit"
+  527  git log
+  528  git checkout 2560b4aaadb96ef0274e62f707ba0b92caa1de53
+  529  cat README.md
+  530  git checkout master
+  531  cat README.md
+  532  git
+  533  git branch
+  534  git checkout -b milkshake-flavours
+  535  git branch
+  536  nano milkshake-flavours
+  537  git status
+  538  git add milkshake.md
+  539  git add milkshakes.md
+  540  ls
+  541  cat milkshakes.md
+  542  nano milkshakes.md
+  543  git add milkshakes.md
+  544  git commit -m "added initial flavour"
+  545  git log
+  546  git checkout master
+  547  git status
+  548  git log
+  549  git checkout -b history
+  550  git log
+  551  git branch
+  552  history > history.txt
